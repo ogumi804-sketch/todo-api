@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/todo
+Content-Type: application/json
+
+{
+  "title": "初めてのTodo",
+  "isCompleted": false
+}
