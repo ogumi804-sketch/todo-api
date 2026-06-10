@@ -1,5 +1,5 @@
 //テスト
-
+//ブランチでの変更
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
